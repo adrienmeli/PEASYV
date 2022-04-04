@@ -2,7 +2,7 @@
 title: "Automatic PEASYV Report"
 subtitle: "A study of monophthongs"
 author: "Adrien Méli"
-date: "March 24, 2022"
+date: "April 04, 2022"
 bibliography: /home/adrien/github/dotfiles/tex/biblio.bib
 biblio-style: "apalike"
 link-citations: yes
@@ -13,10 +13,11 @@ urlcolor: blue
 
 
 
-# Avertissements {-}
+# Warnings {-}
 
 * This is an automated report.
 
+* A `.pdf` version of this report can be downloaded by clicking on the `.pdf` icon above.
 
-* Envoyez vos questions, suggestions, corrections et autres à l'adresse suivante : `adrienmeli at gmail`
+* Feedback: `adrienmeli at gmail`
 
